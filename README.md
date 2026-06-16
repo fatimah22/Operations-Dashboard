@@ -23,19 +23,21 @@ The dashboard provides a centralized operational view that is easy to read for m
 ## Report Pages
 The report is structured into multiple pages, such as:
 
-1. **Overview KPIs**  
-   A high-level summary of inventory, workforce, sales, salary, and process indicators.
-
-2. **Inventory and Stock View**  
-   Visuals to monitor stock levels, negative stock, and potential inventory risks.
-
-3. **Workforce Metrics**  
+1. **Workforce Overview**  
    Views related to headcount, turnover, and workforce distribution.
 
-4. **Sales and Process KPIs**  
+2. **Salary Overview**  
+   Visuals to monitor salary growth by departments.
+   
+3.**Sales Overview**  
    Charts focusing on sales performance and process completion/on-time ratios.
 
-(Adjust page names here to exactly match your actual Power BI pages.)
+4.**Process Overview**  
+   charts type defined by user focuse on the production duration.
+   
+4. **Inventory Dashboard**  
+  Visuals to monitor stock levels, negative stock, and potential inventory risks.
+
 
 ## Tools and Techniques
 - **Power BI Desktop**
@@ -63,3 +65,16 @@ The report is structured into multiple pages, such as:
 ## Notes
 This project focuses on the **analytics workflow inside Power BI**: cleaning, modeling, KPI design, and dashboard storytelling.  
 It is intended as a portfolio project to demonstrate operations analytics skills, not as a live production system.
+
+---
+
+## About the Analyst
+
+Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst transitioning from 
+stress analysis engineering to data analytics. I specialize in 
+Power BI dashboards, data cleaning, and turning business data 
+into clear, actionable insights.
+
+- 🌐 Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/fatimah-alodah](https://www.linkedin.com/in/fatimah-alodah)
+- 📧 Contact: feel free to connect with me on LinkedIn
