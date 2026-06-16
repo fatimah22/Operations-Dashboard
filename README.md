@@ -29,14 +29,14 @@ The report is structured into multiple pages, such as:
 2. **Salary Overview**  
    Visuals to monitor salary growth by departments.
    
-3.**Sales Overview**  
+3. **Sales Overview**  
    Charts focusing on sales performance and process completion/on-time ratios.
 
-4.**Process Overview**  
+4. **Process Overview**  
    charts type defined by user focuse on the production duration.
    
-4. **Inventory Dashboard**  
-  Visuals to monitor stock levels, negative stock, and potential inventory risks.
+5. **Inventory Dashboard**  
+   Visuals to monitor stock levels, negative stock, and potential inventory risks.
 
 
 ## Tools and Techniques
@@ -70,10 +70,8 @@ It is intended as a portfolio project to demonstrate operations analytics skills
 
 ## About the Analyst
 
-Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst transitioning from 
-stress analysis engineering to data analytics. I specialize in 
-Power BI dashboards, data cleaning, and turning business data 
-into clear, actionable insights.
+Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst with engineering background. 
+I specialize in Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
 
 - 🌐 Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
 - 💼 LinkedIn: [linkedin.com/in/fatimah-alodah](https://www.linkedin.com/in/fatimah-alodah)
